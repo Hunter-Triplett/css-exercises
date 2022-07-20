@@ -6,3 +6,6 @@ p { background-color: pink;
 .third {
     font-size: 24px;
 }
+
+#second {color: navy; 
+         font-size: 36px;}
